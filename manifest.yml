@@ -1,7 +1,7 @@
 ---
 applications:
 - buildpack: https://github.com/cloudfoundry/staticfile-buildpack.git
-  name: mypage
-  host: mypage
+  name: mypg
+  host: mypg
   memory: 64M
   stack: cflinuxfs3
